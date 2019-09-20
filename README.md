@@ -1,1 +1,4 @@
-# Mellor_S_Andrigo_J_HW1
+# My Team Awesome Bio Page
+
+## Learn all about Spencer & Jordan!
+
